@@ -31,6 +31,19 @@
       "llamadoAccion": "Publica avisos con información completa.",
       "fuente": "Protocolo editorial del curso",
       "revisionEditorial": "aprobada"
+    },
+    {
+    
+      "id": 4,
+      "titulo": "Información responsable en redes",
+      "mensaje": "Compartir información verificada ayuda a evitar rumores, fortalece la confianza comunitaria y mejora la convivencia digital.",
+      "categoria": "prevencion-desinformacion",
+      "audiencia": "usuarios de redes sociales",
+      "tono": "educativo",
+      "llamadoAccion": "Verifica la información antes de publicarla o reenviarla.",
+      "fuente": "Mesa de participación comunitaria",
+      "revisionEditorial": "aprobada"
+      
     }
   ]
   

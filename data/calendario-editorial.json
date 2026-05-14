@@ -100,6 +100,23 @@
       "fuente": "Equipo de seguimiento",
       "responsable": "Equipo docente",
       "observaciones": "Revisar consistencia con piezas anteriores."
+    },
+    {
+      "id": 7,
+      "semana": 3,
+      "dia": "Lunes",
+      "fecha": "Pendiente por definir",
+      "tema": "Prevención de rumores",
+      "tipoPieza": "Aviso preventivo",
+      "pieza": "Aviso contra rumores digitales",
+      "canal": "Red comunitaria",
+      "publicoObjetivo": "comunidad general",
+      "proposito": "Reducir la difusión de mensajes falsos o alarmistas.",
+      "tono": "preventivo",
+      "llamadoAccion": "Confirma la información antes de reenviarla.",
+      "fuente": "Canal institucional comunitario",
+      "responsable": "Equipo de comunicaciones",
+      "observaciones": "Usar lenguaje claro y evitar generar alarma innecesaria."
     }
   ]
   

@@ -74,7 +74,7 @@ http://localhost:3000/api/mensajes
 
 http://localhost:3000/api/calendario
 
-13. Revisar public/app.js
+13. Revisar public/app.js 
 
 Identificar:
 async

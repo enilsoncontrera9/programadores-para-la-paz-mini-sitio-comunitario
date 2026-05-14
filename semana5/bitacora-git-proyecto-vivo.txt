@@ -1,61 +1,64 @@
 Bitácora Git del proyecto vivo – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 14/05/2026
+Nombre de la rama: enilson_contreras
 
 1. Nombre del repositorio único de Semana 5:
 
-Respuesta:
+Respuesta: programadores-para-la-paz-mini-sitio-comunitario
 
 2. ¿Qué rama actualizan los docentes?
 
-Respuesta:
+Respuesta: la rama main
 
 3. ¿Qué rama usa cada estudiante para trabajar?
 
-Respuesta:
+Respuesta: Cada estudiante trabaja en su propia rama personal, en mi caso enilson_contreras.
 
 4. Comando usado para clonar el repositorio:
 
-Respuesta:
+Respuesta: git clone URL_DEL_FORK
 
 5. Comando usado para entrar a la carpeta del proyecto:
 
-Respuesta:
+Respuesta: cd nombre-del-proyecto
 
 6. Comando usado para crear tu rama personal:
 
-Respuesta:
+Respuesta: git checkout -b enilson_contreras
 
 7. Comando usado para verificar la rama actual:
 
-Respuesta:
+Respuesta: git branch
 
 8. Comando que se usará desde la Clase 22 para traer cambios de main:
 
-Respuesta:
+Respuesta: git pull origin main
 
 9. Explica con tus palabras qué significa fast-forward:
 
-Respuesta:
+Respuesta: Significa que Git puede avanzar directamente a los cambios nuevos porque no existen conflictos entre las ramas.
 
 10. ¿Por qué no se debe trabajar directamente en main?
 
-Respuesta:
+Respuesta: Porque la rama main es la principal del proyecto y si alguien comete un error puede afectar el trabajo de 
+todo el equipo, ademas, se debe hacer una copia del repositorio en nuestra propia cuenta de GitHub usando el botón Fork, ya que 
+si se clona directamente el repositorio del docente, GitHub no dejará subir cambios con git push, ya que no se tienen 
+permisos sobre el repositorio original.
 
 11. Comando usado para revisar cambios al final:
 
-Respuesta:
+Respuesta: git status
 
 12. Comando usado para agregar cambios:
 
-Respuesta:
+Respuesta: git add .
 
 13. Comando usado para crear commit:
 
-Respuesta:
+Respuesta: git commit -m "+ mensaje de commit"
 
 14. Comando usado para publicar tu rama:
 
-Respuesta:
+Respuesta: git push origin enilson_contreras

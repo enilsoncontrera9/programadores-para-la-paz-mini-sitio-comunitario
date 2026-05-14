@@ -1,8 +1,8 @@
 Reflexión sobre mini-sitio comunitario – Clase 21
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 14/05/2026
+Nombre de la rama: enilson_contreras
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -30,4 +30,13 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Un mini-sitio que consume una API ayuda a la comunidad porque permite mostrar información organizada y 
+fácil de consultar mediante datos en formato JSON. Además, usando fetch, async y await el sitio puede cargar mensajes 
+y calendarios de manera más rápida y ordenada. La API también ayuda a mantener una difusión responsable porque la 
+información puede revisarse antes de publicarse. El calendario editorial permite planificar las publicaciones y 
+mantener una consistencia comunicativa en todos los mensajes. También es importante la revisión de fuentes para 
+evitar desinformación y compartir contenido verificable. En GitHub, trabajar con un proyecto único ayuda a mantener 
+mejor organizado el trabajo del equipo. La rama main guarda la versión principal, mientras cada estudiante trabaja 
+en su rama personal para evitar errores. El comando git pull origin main permite actualizar los cambios más recientes 
+y el fast-forward ayuda a integrar cambios de forma más sencilla. Todo esto fortalece la participación ciudadana, el 
+lenguaje responsable y la cultura de paz en los espacios digitales.
