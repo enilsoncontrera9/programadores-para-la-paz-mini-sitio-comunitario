@@ -1,4 +1,4 @@
-Guía práctica – Clase 22
+Guía práctica – Clase 22 
 
 Actividad:
 Tablero de mensajes, accesibilidad, seguridad visual y minimización de datos.

@@ -1,8 +1,8 @@
 Reflexión sobre tablero comunitario – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 16/05/2026
+Nombre de la rama: enilson_contreras
 
 Escribe una reflexión de 8 a 10 líneas respondiendo:
 
@@ -24,4 +24,11 @@ En tu respuesta menciona al menos cinco de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Un tablero de mensajes claro accesible y seguro, es importante porque funciona como una vitrina comunitaria 
+donde todos pueden informarse fácilmente. Cuando hay buena accesibilidad mínima cualquier persona puede entender la 
+información sin dificultad, por otro lado, la legibilidad ayuda a que los textos se lean de forma clara y rápida.
+también la jerarquía visual permite identificar qué información es más importante. la seguridad visual evita confusiones
+y sobrecarga de información en la pantalla la minimización de datos visibles, protege la privacidad de las personas y 
+evita mostrar información innecesaria, ademas la curaduría de información asegura que solo se publique lo realmente 
+importante, todo esto mejora la confianza comunitaria y fomenta la participación ciudadana además el uso de lenguaje 
+claro y responsable ayuda a fortalecer una cultura de paz en la comunidad

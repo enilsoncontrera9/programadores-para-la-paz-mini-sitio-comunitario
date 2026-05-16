@@ -1,39 +1,40 @@
 Curaduría de datos visibles – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 16/05/2026
+Nombre de la rama: enilson_contreras
 
 Revisa los datos disponibles en data/mensajes.json y data/calendario-editorial.json.
 
 1. ¿Qué datos sí deben mostrarse públicamente en el tablero de mensajes?
 
-Respuesta:
+Respuesta: Deben mostrarse la semana, día, tema, pieza, canal, público, propósito, tono, llamado a la acción y fuente
 
 2. ¿Qué datos no deberían mostrarse públicamente o deben mostrarse con cuidado?
 
-Respuesta:
+Respuesta: No deberían mostrarse el id y las observaciones, porque son datos internos de control y revisión que no son 
+necesarios para la comunidad.
 
 3. ¿Por qué no todo lo que está en el JSON debe aparecer en la vista pública?
 
-Respuesta:
+Respuesta: No todo debe aparecer porque hay datos internos que no son útiles para el usuario.
 
 4. ¿Qué datos ayudan a la comunidad a entender el mensaje?
 
-Respuesta:
+Respuesta: Ayudan a entender los datos como tema, pieza, propósito y llamado a la acción.
 
 5. ¿Qué datos ayudan a verificar la información?
 
-Respuesta:
+Respuesta: Ayudan a verificar los datos de fuente y responsable.
 
 6. ¿Qué datos podrían ser internos para revisión editorial?
 
-Respuesta:
+Respuesta: id, observaciones y datos de control.
 
 7. ¿Cómo se relaciona la minimización de datos visibles con la confianza comunitaria?
 
-Respuesta:
+Respuesta: La minimización de datos genera confianza y protege la privacidad.
 
 8. Escribe una regla de curaduría para el tablero:
 
-Respuesta:
+Respuesta: solo mostrar información clara y útil para la comunidad, sin datos internos.

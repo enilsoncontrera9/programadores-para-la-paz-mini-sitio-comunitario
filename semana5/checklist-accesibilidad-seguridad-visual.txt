@@ -1,8 +1,8 @@
 Checklist de accesibilidad y seguridad visual – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 16/05/2026
+Nombre de la rama: enilson_contreras
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,59 @@ Marca SÍ o NO y explica brevemente.
 
 ¿La interfaz funciona como vitrina comunitaria clara?
 
-Respuesta:
+Respuesta: SÍ ya que la información está organizada en secciones y tarjetas que permiten entender fácilmente los mensajes 
+comunitarios.
 
 2. Accesibilidad mínima
 
 ¿Los títulos son comprensibles y las secciones están separadas?
 
-Respuesta:
+Respuesta: SÍ, cada título es claro y cada sección está bien diferenciada.
 
 3. Legibilidad
 
 ¿Los textos se pueden leer con facilidad?
 
-Respuesta:
+Respuesta: si, el contenido está presentado de forma ordenada y con buena estructura visual.
 
 4. Contraste suficiente
 
 ¿El texto se distingue del fondo?
 
-Respuesta:
+Respuesta: SÍ, los elementos del texto se distinguen claramente del fondo, lo que facilita la lectura.
 
 5. Jerarquía visual
 
 ¿Se entiende qué información es principal y qué información es secundaria?
 
-Respuesta:
+Respuesta: Si ya que los títulos destacan como información principal y los detalles aparecen como información secundaria.
 
 6. Lenguaje claro
 
 ¿Los mensajes son comprensibles para una comunidad general?
 
-Respuesta:
+Respuesta: SÍ, el lenguaje es sencillo, directo y fácil de entender para cualquier usuario.
 
 7. Organización visual coherente
 
 ¿Las tarjetas mantienen una estructura similar?
 
-Respuesta:
+Respuesta: si, todas las tarjetas siguen un mismo formato con título, contenido y fuente.
 
 8. Seguridad visual
 
 ¿La vista pública evita saturación, confusión o exposición innecesaria?
 
-Respuesta:
+Respuesta: Si la información está organizada sin sobrecargar la pantalla ni mostrar datos innecesarios.
 
 9. Minimización de datos visibles
 
 ¿La página muestra solo la información necesaria?
 
-Respuesta:
+Respuesta: Si, el sitio solo se muestra información comunitaria relevante sin datos personales o sensibles.
 
 10. Lenguaje responsable y no estigmatizante
 
 ¿Los mensajes evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta: SÍ, los mensajes usan un tono educativo, respetuoso y orientado a la convivencia comunitaria.

@@ -1,8 +1,8 @@
 Pruebas del tablero de mensajes – Clase 22
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 16/05/2026
+Nombre de la rama: enilson_contreras
 
 Prueba 1: Abrir mini-sitio
 
@@ -12,10 +12,11 @@ http://localhost:3000
 Resultado esperado:
 El mini-sitio abre correctamente y muestra estructura visual con estilos.
 
-Resultado observado:
+Resultado observado: El mini-sitio abrió correctamente en el navegador y mostró las secciones organizadas con botones 
+y loa mensjaes o textos.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si 
 
 Prueba 2: Verificar hoja de estilos
 
@@ -25,23 +26,23 @@ public/styles.css
 Resultado esperado:
 La página muestra fondo, secciones, botones y tarjetas con estilos básicos.
 
-Resultado observado:
+Resultado observado: La página mostró colores basicos como blanco, botones visibles, tarjetas organizadas.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si 
 
 Prueba 3: Cargar mensajes
 
-Acción:
+Acción: 
 Hacer clic en Cargar mensajes.
 
 Resultado esperado:
 Los mensajes aparecen como tarjetas legibles.
 
-Resultado observado:
+Resultado observado: Los mensajes cargaron correctamente y aparecieron organizados en tarjetas fáciles de leer.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si 
 
 Prueba 4: Revisar datos visibles
 
@@ -54,10 +55,10 @@ tono
 llamado a la acción
 fuente
 
-Resultado observado:
+Resultado observado: el sitio mostro los datos visibles acordes.
 
 ¿Aparecen datos innecesarios?
-Respuesta:
+Respuesta: no
 
 Prueba 5: Cargar calendario
 
@@ -67,12 +68,13 @@ Hacer clic en Cargar calendario.
 Resultado esperado:
 El calendario aparece como tarjetas con información resumida.
 
-Resultado observado:
+Resultado observado: El calendario editorial mostró correctamente tarjetas legibles y organizadas.
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si 
 
 Conclusión:
 ¿Qué mejora visual ayudó más a entender la información comunitaria?
 
-Respuesta:
+Respuesta: La organización por tarjetas y la separación clara entre mensajes y calendario ayudó a entender mejor 
+la información comunitaria y facilitó la lectura de cada publicación.
