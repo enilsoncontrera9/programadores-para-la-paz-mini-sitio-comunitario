@@ -1,0 +1,52 @@
+Revisión editorial de mensajes dinámicos – Clase 23
+
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 17/05/2026
+Nombre de la rama: enilson_contreras
+
+Selecciona un mensaje que aparezca en el tablero y responde.
+
+1. Título del mensaje seleccionado:
+
+Respuesta: Información responsable en redes
+
+2. ¿El mensaje se cargó dinámicamente desde la API?
+
+Respuesta: si 
+
+3. ¿El mensaje tiene propósito comunitario?
+
+Respuesta: si 
+
+4. ¿El mensaje tiene audiencia clara?
+
+Respuesta: si
+
+5. ¿El tono es adecuado?
+
+Respuesta: si 
+
+6. ¿El llamado a la acción es comprensible?
+
+Respuesta: si 
+
+7. ¿El mensaje tiene fuente o criterio de verificación?
+
+Respuesta: si 
+
+8. ¿Mantiene consistencia comunicativa con los demás mensajes?
+
+Respuesta: si 
+
+9. ¿Requiere moderación editorial básica antes de publicarse?
+
+Respuesta: No, porque el mensaje ya está bien redactado
+
+10. ¿Usa lenguaje responsable y no estigmatizante?
+
+Respuesta: si 
+
+11. Escribe una mejora editorial para el mensaje:
+
+Respuesta: Antes de compartir cualquier información en redes sociales, verifica siempre su fuente para evitar 
+la desinformación.”

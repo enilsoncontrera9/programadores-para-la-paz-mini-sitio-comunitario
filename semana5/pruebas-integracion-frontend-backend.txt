@@ -1,0 +1,103 @@
+Pruebas de integración Frontend-Backend – Clase 23
+
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 17/05/2026
+Nombre de la rama: enilson_contreras
+
+Prueba 1: Backend activo
+
+Comando usado:
+npm run sitio
+
+Resultado esperado:
+El servidor inicia en http://localhost:3000 y muestra las rutas disponibles.
+
+Resultado observado: El servidor inició correctamente y mostró las rutas
+
+¿Funcionó?
+Respuesta: si
+
+Prueba 2: Ruta GET /api/mensajes
+
+Dirección:
+http://localhost:3000/api/mensajes
+
+Resultado esperado:
+El navegador muestra datos JSON de mensajes comunitarios.
+
+Resultado observado: Se visualizó un JSON con los mensajes correctamente cargados.
+
+¿Funcionó?
+Respuesta: si 
+
+Prueba 3: Ruta GET /api/calendario
+
+Dirección:
+http://localhost:3000/api/calendario
+
+Resultado esperado:
+El navegador muestra datos JSON del calendario editorial.
+
+Resultado observado: Se mostró un JSON con los eventos del calendario.
+
+¿Funcionó?
+Respuesta: si 
+
+Prueba 4: Ruta GET /api/resumen
+
+Dirección:
+http://localhost:3000/api/resumen
+
+Resultado esperado:
+El navegador muestra un resumen generado por la API propia.
+
+Resultado observado: Se generó y mostró el resumen correctamente en formato JSON.
+
+¿Funcionó?
+Respuesta: si 
+
+Prueba 5: Frontend carga mensajes
+
+Acción: 
+Hacer clic en Cargar mensajes.
+
+Resultado esperado:
+El tablero muestra mensajes dinámicos desde la API.
+
+Resultado observado: Los mensajes se cargaron correctamente en la interfaz.
+
+¿Funcionó?
+Respuesta: si 
+
+Prueba 6: Frontend carga calendario
+
+Acción:
+Hacer clic en Cargar calendario.
+
+Resultado esperado:
+El tablero muestra piezas del calendario desde la API.
+
+Resultado observado: El calendario se mostró correctamente en el frontend.
+
+¿Funcionó?
+Respuesta: si 
+
+Prueba 7: Frontend carga resumen
+
+Acción:
+Hacer clic en Cargar resumen.
+
+Resultado esperado:
+La página muestra totales generados por el backend.
+
+Resultado observado: El resumen se visualizó correctamente en pantalla.
+
+¿Funcionó?
+Respuesta: si
+
+Conclusión:
+¿Cómo comprobaste que el frontend está conectado con el backend?
+
+Respuesta: El frontend está correctamente conectado con el backend porque todas las rutas de la API responden en 
+formato JSON y los datos se reflejan en la interfaz al interactuar con los botones. Además, no se presentan errores 
+en la comunicación entre cliente y servidor, lo que confirma que la integración funciona de manera adecuada.

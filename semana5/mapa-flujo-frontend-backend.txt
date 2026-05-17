@@ -1,0 +1,71 @@
+Mapa del flujo Frontend-Backend – Clase 23
+
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 17/05/2026
+Nombre de la rama: enilson_contreras
+
+Completa el flujo con tus palabras.
+
+1. Frontend
+
+¿Qué parte del proyecto corresponde al frontend?
+
+Respuesta: El frontend es la parte visual del proyecto, es decir, todo lo que el usuario ve e interactúa en el 
+navegador, como los botones, el tablero, el calendario y los mensajes.
+
+2. Backend
+
+¿Qué parte del proyecto corresponde al backend?
+
+Respuesta: El backend es la parte del servidor que se encarga de procesar las solicitudes, leer los datos y 
+enviarlos al frontend en formato JSON como index.html y styles.css
+
+3. API propia
+
+¿Qué rutas expone la API propia del proyecto?
+
+Respuesta: expone rutas como /api/mensajes, /api/calendario y /api/resumen, donde se entregan los datos del sistema.
+
+4. Datos
+
+¿Qué archivos JSON usa el backend para responder?
+
+Respuesta: El backend usa los archivos mensajes.json y calendario-editorial.json, que están dentro de la carpeta data.
+
+5. Consulta desde frontend
+
+¿Qué función de JavaScript se usa para consultar la API?
+
+Respuesta: Se usa la función fetch() para hacer las peticiones al backend desde el frontend.
+
+6. Espera de respuesta
+
+¿Qué palabras se usan para esperar la respuesta del servidor?
+
+Respuesta: Se usan async y await para esperar la respuesta del servidor.
+
+7. Conversión de respuesta
+
+¿Qué hace respuesta.json()?
+
+Respuesta: Convierte la respuesta del servidor en formato JSON a un objeto que JavaScript puede leer y utilizar.
+
+8. Render dinámico
+
+¿Qué significa mostrar datos dinámicamente en el tablero?
+
+Respuesta: Significa que la información se carga automáticamente desde la API sin necesidad de recargar la página.
+
+9. Prueba
+
+¿Cómo verificaste que la información del tablero coincide con la API?
+
+Respuesta: Verifiqué que los datos mostrados en el tablero fueran iguales a los que devuelve la API al abrir las 
+rutas en el navegador.
+
+10. Propósito comunitario
+
+¿Cómo ayuda esta integración a mantener información comunitaria actualizable?
+
+Respuesta: Permite que la información del tablero se actualice fácilmente desde el backend, asegurando que la 
+comunidad siempre vea datos recientes y organizados sin cambios manuales en la interfaz.
