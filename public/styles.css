@@ -1,11 +1,10 @@
-/* ===== RESET ===== */
+<<<<<<< HEAD
 * {
   margin: 0;
   padding: 0;
   box-sizing: border-box;
 }
 
-/* ===== BODY ===== */
 body {
   font-family: "Poppins", sans-serif;
   background: linear-gradient(135deg, #eef7f3, #dff4ea, #f5fbf8);
@@ -14,7 +13,6 @@ body {
   line-height: 1.6;
 }
 
-/* ===== HEADER ===== */
 header {
   text-align: center;
   padding: 60px 20px;
@@ -41,14 +39,12 @@ header p {
   font-size: 1.1rem;
 }
 
-/* ===== MAIN ===== */
 main {
   max-width: 1100px;
   margin: auto;
   padding: 40px 20px;
 }
 
-/* ===== SECTIONS ===== */
 section {
   background: rgba(255, 255, 255, 0.82);
   border: 1px solid rgba(16, 185, 129, 0.12);
@@ -61,7 +57,6 @@ section {
   overflow: hidden;
 }
 
-/* EFECTO SUAVE */
 section::before {
   content: "";
   position: absolute;
@@ -74,7 +69,6 @@ section::before {
   filter: blur(20px);
 }
 
-/* HOVER */
 section:hover {
   transform: translateY(-6px);
   box-shadow: 0 18px 40px rgba(16, 185, 129, 0.15);
@@ -213,3 +207,18 @@ button:hover {
     width: 100%;
   }
 }
+=======
+input {
+    padding: 10px;
+    border: 1px solid #999999;
+    border-radius: 6px;
+    width: 100%;
+    max-width: 320px;
+  }
+  
+  #mensajeLogin {
+    margin-top: 12px;
+    font-weight: bold;
+  }
+  
+>>>>>>> main

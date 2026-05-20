@@ -1,0 +1,34 @@
+Reflexión sobre transferencia tecnológica – Clase 24
+
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 20/05/2026
+Nombre de la rama: enilson_contreras
+
+Escribe una reflexión de 8 a 10 líneas respondiendo:
+
+¿Por qué documentar un proyecto comunitario ayuda a la transparencia, la continuidad y la confianza?
+
+En tu respuesta menciona al menos cinco de estas ideas:
+
+- transferencia tecnológica
+- documentación como transparencia
+- README
+- claridad operativa
+- uso responsable de IA
+- apoyo verificable de IA
+- trazabilidad en Git
+- commits claros
+- no exposición de credenciales
+- no publicación de información sensible
+- confianza comunitaria
+- participación ciudadana
+- cultura de paz
+
+Respuesta: yo creo que documentar un proyecto comunitario ayuda a la documentación como transparencia porque 
+todo queda claro y visible, también el README permite entender el proyecto fácilmente, la claridad operativa hace 
+que el trabajo sea más organizado, la trazabilidad en Git y los commits claros ayudan a ver los cambios realizados, 
+además la transferencia tecnológica permite compartir el conocimiento, el uso responsable de IA y su apoyo 
+verificable mejoran el proceso sin perder control humano, también es importante la no exposición de credenciales y 
+la no publicación de información sensible para proteger el proyecto, todo esto fortalece la confianza comunitaria y 
+la participación ciudadana, y finalmente aporta a una cultura de paz porque mejora la organización y el trabajo 
+en equipo

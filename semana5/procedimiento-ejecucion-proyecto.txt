@@ -1,0 +1,82 @@
+Procedimiento de ejecución del proyecto – Clase 24
+
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 20/05/2026
+Nombre de la rama: enilson_contreras
+
+Escribe el procedimiento para que otra persona pueda ejecutar el proyecto.
+
+1. Requisitos del entorno
+
+¿Qué debe tener instalado la persona?
+Ejemplos: Git, Node.js, navegador, editor de código.
+
+Respuesta: Debe tener instalado Git, Node.js, un navegador web y un editor de código como Visual Studio Code o Cursor
+
+2. Clonar repositorio
+
+Comando: git clone URL_DEL_REPOSITORIO DE GitHub
+
+Respuesta: Este comando descarga el proyecto desde GitHub al computador.
+
+3. Entrar a la carpeta del proyecto
+
+Comando: cd Nombre de la carpeta clonada
+
+Respuesta: Permite ingresar a la carpeta donde está el proyecto.
+
+4. Crear o cambiar a rama personal
+
+Comando: git checkout -b nombres_apellidos para crear la rama y git checkout nombre de la rama, para cambiarla.
+
+Respuesta: Crea y cambia a la rama personal donde de trabajara.
+
+5. Instalar dependencias
+
+Comando: npm install
+
+Respuesta: Instala la dependencia necesaria del proyecto como express
+
+6. Ejecutar el proyecto
+
+Comando: npm run sitio
+
+Respuesta: Inicia el servidor y ejecuta el proyecto localmente.
+
+7. Abrir en navegador
+
+Dirección: http://localhost:3000
+
+Respuesta: Esa dirección permite abrir el mini-sitio en el navegador.
+
+8. Probar rutas de la API
+
+Escribe las rutas que se deben probar:
+
+/api/mensajes
+/api/calendario
+/api/resumen
+/api/login
+
+Respuesta: Estas rutas permiten verificar que la API funciona correctamente.
+
+9. Probar login pedagógico
+
+Usuario de demostración:  docente
+
+Clave de demostración: demo
+
+Resultado esperado: El sistema debe responder correctamente al login pedagógico y dara acceso a la ruta protegida
+
+10. Verificación final
+
+¿Cómo sabe la persona que el proyecto está funcionando?
+
+Respuesta: La persona sabe que funciona porque la página carga correctamente y las rutas muestran información 
+sin errores.
+
+11. Nota de seguridad
+
+¿Qué información NO debe publicarse?
+
+Respuesta: No deben publicarse contraseñas reales, tokens, credenciales ni información sensible de la comunidad.

@@ -1,0 +1,54 @@
+Registro de uso verificable de IA – Clase 24
+
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 20/05/2026
+Nombre de la rama: enilson_contreras
+
+Importante:
+La IA puede ayudar a mejorar claridad, ordenar pasos y revisar redacción, pero toda sugerencia debe verificarse en el proyecto real.
+
+No debes compartir con IA:
+- contraseñas reales
+- tokens reales
+- datos personales
+- información sensible de la comunidad
+- enlaces privados
+- credenciales de acceso
+
+1. ¿Para qué usaste IA en esta clase?
+Ejemplos: mejorar README, organizar pasos de ejecución, aclarar error, revisar redacción.
+
+Respuesta: Usé la IA para que me ayudara y guiara en el diseño moderno de la página web y en cómo actualizar 
+correctamente el fork y la rama main.
+
+2. Escribe la pregunta que hiciste a la IA:
+
+Respuesta: ¿Cómo actualizo correctamente mi fork con la rama main del docente? y ¿Cómo hago que mi página web se vea 
+más moderna y organizada?
+
+3. Resume la respuesta recibida:
+
+Respuesta: La IA me guió con pasos para sincronizar el fork y también me ayudó con ideas de colores, organización 
+y diseño responsive para mejorar la página web.
+
+4. ¿Qué parte de la respuesta aplicaste?
+
+Respuesta: Apliqué las recomendaciones de diseño y seguí algunos pasos que la IA me mostró para actualizar el fork.
+
+5. ¿Qué parte decidiste no aplicar?
+
+Respuesta: No usé algunas configuraciones más avanzadas porque quería dejar el proyecto más sencillo y no las 
+entendia bien, solo use las que me explico y entendi.
+
+6. ¿Cómo verificaste en el proyecto que la sugerencia era correcta?
+
+Respuesta: Probé los cambios en el navegador y revisé en GitHub si la rama main estaba actualizada y me funciono
+
+7. ¿Incluiste datos sensibles o credenciales reales en la consulta?
+
+Respuesta: No, no compartí contraseñas ni información sensible ya que no se deberia de hacer.
+
+8. ¿Qué aprendiste sobre uso responsable de IA?
+
+Respuesta: Aprendí que la IA puede ayudar y guiar mucho, pero siempre se debe de revisar y comprobar las respuestas 
+antes de aplicarlas en el proyecto.
