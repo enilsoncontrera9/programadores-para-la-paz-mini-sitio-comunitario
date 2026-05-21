@@ -1,4 +1,4 @@
-Guía práctica – Clase 25
+Guía práctica – Clase 25 
 
 Actividad:
 Cierre integrador de Semana 5: mini-sitio, README, calendario editorial, middleware simple y trazabilidad en GitHub.

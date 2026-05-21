@@ -1,8 +1,8 @@
 Evidencia dual de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 21/05/2026
+Nombre de la rama: enilson_contreras
 
 La evidencia dual de Semana 5 está compuesta por:
 
@@ -10,60 +10,74 @@ La evidencia dual de Semana 5 está compuesta por:
 
 Describe brevemente qué hace el mini-sitio:
 
-Respuesta:
+Respuesta: Es una web comunitaria que corre en http://localhost:3000 y consume una API propia (/mensajes, 
+/calendario, /resumen,) para cargar info en tiempo real.
 
-Rutas probadas:
+Rutas probadas: 
 
-Respuesta:
+Respuesta: http://localhost:3000/api/mensajes
+http://localhost:3000/api/calendario
+http://localhost:3000/api/resumen
 
 2. README versionado en Git
 
 Explica qué información contiene el README:
 
-Respuesta:
+Respuesta: Documenta todo el propósito del proyecto, pasos de instalación, rutas de la API, uso seguro de IA y 
+el flujo de trabajo usando mi rama personal
 
 3. Calendario editorial de dos semanas
 
 Describe el tema general del calendario editorial:
 
-Respuesta:
+Respuesta: Tiene 7 piezas enfocadas en la comunicación ciudadana, convivencia digital y prevención de rumores. 
 
-Número de piezas:
+Número de piezas: 7 piezas
 
-Respuesta:
+Respuesta: Cada pieza define su tema, público, propósito y fuente clara
 
 4. Difusión responsable
 
 ¿Cómo garantiza el proyecto una difusión responsable?
 
-Respuesta:
+Respuesta: El proyecto la garantiza porque planifica los contenidos con antelación en el calendario, exige que cada 
+mensaje tenga un propósito social claro, fomenta llamados a la acción constructivos y educa a los usuarios para que
+ verifiquen los datos antes de compartirlos.
 
 5. Revisión de fuentes
 
 ¿Cómo se revisa o menciona la fuente de la información?
 
-Respuesta:
+Respuesta: Se gestiona obligando a que cada pieza del calendario o mensaje incluya un campo explícito llamado Fuente.
+ Esto asegura que la información no salga de la nada
 
 6. Consistencia comunicativa
 
 ¿Cómo se mantiene coherencia entre mensajes y piezas?
 
-Respuesta:
+Respuesta: Se mantiene porque todas las piezas y mensajes apuntan hacia el mismo objetivo: fortalecer la participación 
+ciudadana y mitigar la desinformación. No hay mensajes contradictorios
 
 7. Moderación editorial básica
 
 ¿Qué criterios se deben revisar antes de publicar?
 
-Respuesta:
+Respuesta: Antes de publicar, se debe revisar: que la información provenga de una fuente confiable, que el mensaje 
+tenga un propósito comunitario útil, que incluya un llamado a la acción positivo y que cumpla estrictamente con las
+ reglas de lenguaje responsable
 
 8. GitHub y trazabilidad
 
 ¿Qué commits o avances registraste durante la semana?
 
-Respuesta:
+Respuesta: Durante la semana registré el avance diario trabajando en mi rama personal enilson_contreras, 
+haciendo commits claros como Clase 25 cierre integrador semana 5
 
 9. Conclusión personal
 
 ¿Por qué este proyecto es más completo que un ejercicio técnico aislado?
 
-Respuesta:
+Respuesta: Este proyecto es mucho más completo porque no se limita a tirar código o levantar un servidor web a lo loco.
+Al cruzar el desarrollo técnico con un enfoque ciudadano real, te obliga a pensar en el impacto
+de la tecnología: accesibilidad, seguridad de datos, moderación y la responsabilidad ética que implica poner 
+información al alcance de una comunidad.

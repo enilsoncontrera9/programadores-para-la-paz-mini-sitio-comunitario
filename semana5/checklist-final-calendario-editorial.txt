@@ -1,8 +1,8 @@
 Checklist final del calendario editorial – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 21/05/2026
+Nombre de la rama: enilson_contreras
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,61 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El calendario tiene dos semanas de planificación?
 
-Respuesta:
+Respuesta: No, tiene 3 semanas de planificacion, dos terminadas y una comenzada
 
 2. Seis piezas
 
 ¿El calendario tiene al menos seis piezas?
 
-Respuesta:
+Respuesta: Sí, el calendario tiene exactamente 7 piezas programadas
 
 3. Fecha o momento de publicación
 
 ¿Cada pieza tiene fecha, día o momento definido?
 
-Respuesta:
+Respuesta: Sí, cada una de las piezas tiene asignado su momento exacto estructurado por semana y día
 
 4. Tema
 
 ¿Cada pieza tiene un tema claro?
 
-Respuesta:
+Respuesta: Todas las piezas incluyen su apartado de Tema bien definido
 
 5. Público objetivo
 
 ¿Cada pieza define público objetivo?
 
-Respuesta:
+Respuesta: Sí, cada publicación especifica a quién va dirigida, variando entre "comunidad general", 
+"jóvenes participantes" o "líderes comunitarios" según el caso.
 
 6. Propósito
 
 ¿Cada pieza tiene propósito comunitario?
 
-Respuesta:
+Respuesta: Sí, todas tienen un propósito comunitario
 
 7. Responsable
 
 ¿Cada pieza define responsable?
 
-Respuesta:
+Respuesta: Sí, se identifica claramente de dónde viene o quién está detrás de la publicación a través del campo fuente
 
 8. Revisión de fuentes
 
 ¿Cada pieza incluye fuente o criterio de verificación?
 
-Respuesta:
+Respuesta: Sí, cada pieza detalla su origen
 
 9. Consistencia comunicativa
 
 ¿Las piezas mantienen coherencia entre sí?
 
-Respuesta:
+Respuesta: Sí, ya que todas las piezas están alineadas bajo la misma lógica de educación digital, 
+participación ciudadana responsable y fortalecimiento de la comunidad.
 
 10. Lenguaje responsable y no estigmatizante
 
 ¿Las piezas evitan insultos, generalizaciones, alarmismo o señalamientos sin evidencia?
 
-Respuesta:
+Respuesta: si, el tono es constructivo y respetuoso, de hecho incluye llamados explícitos a "evitar ataques personales", 
+"evitar mensajes ofensivos" y reducir la difusión de rumores falsos.

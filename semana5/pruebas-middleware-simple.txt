@@ -1,8 +1,8 @@
 Pruebas de middleware simple – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 21705/2026
+Nombre de la rama: enilson_contreras
 
 Importante:
 Este middleware es pedagógico. No representa seguridad real de producción.
@@ -15,10 +15,10 @@ Abrir el mini-sitio y probar la revisión editorial protegida sin iniciar sesió
 Resultado esperado:
 El sistema debe negar el acceso o indicar que falta token.
 
-Resultado observado:
+Resultado observado: No, el sintio funciona correctamente 
 
 ¿Funcionó?
-Respuesta:
+Respuesta: no
 
 Prueba 2: Login pedagógico
 
@@ -31,10 +31,10 @@ demo
 Resultado esperado:
 El sistema responde login pedagógico correcto y guarda token de demostración.
 
-Resultado observado:
+Resultado observado: el sistema respondio correctamente
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 3: Ruta protegida después del login
 
@@ -44,25 +44,29 @@ Probar revisión editorial protegida después del login.
 Resultado esperado:
 El sistema permite ver la respuesta de revisión editorial pedagógica.
 
-Resultado observado:
+Resultado observado: la respuesta de revision editorial funciono correctamente
 
 ¿Funcionó?
-Respuesta:
+Respuesta: si
 
 Prueba 4: Token incorrecto
 
 Explica qué debería pasar si el token no coincide con el esperado.
 
-Respuesta:
+Respuesta: Si el token no coincide o está alterado, se deberia de mostrar un mensaje de acceso denegado
 
 5. ¿Qué hace el middleware simple?
 
-Respuesta:
+Respuesta: Funciona como un filtro o guardián en el servidor. Se interpone entre la petición que hace el usuario 
+y la ruta final
 
 6. ¿Por qué este middleware no debe confundirse con seguridad real?
 
-Respuesta:
+Respuesta: Porque es una simulación básica con fines educativos
 
 7. ¿Qué aprendiste sobre rutas públicas y rutas protegidas?
 
-Respuesta:
+Respuesta: Aprendí que las rutas públicas están abiertas para cualquiera, mientras que las protegidas necesitan 
+una capa de verificación previa para resguardar la información, ademas entendí que el control de acceso se maneja 
+desde el backend mediante tokens y que el frontend solo se encarga de reaccionar visualmente a lo que el servidor 
+autorice.

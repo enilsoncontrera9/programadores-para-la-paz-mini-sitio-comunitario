@@ -1,8 +1,8 @@
 Reflexión de cierre de Semana 5 – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 21/05/2026
+Nombre de la rama: enilson_contreras
 
 Escribe una reflexión de 10 a 12 líneas respondiendo:
 
@@ -42,4 +42,14 @@ En tu respuesta menciona al menos ocho de estas ideas:
 - participación ciudadana
 - cultura de paz
 
-Respuesta:
+Respuesta: Al mirar atrás, me doy cuenta de que pasé de hacer páginas sencillas en HTML, CSS y JavaScript a 
+estructurar una plataforma real orientada a la participación ciudadana. En este proyecto en GitHub, dejamos de tirar 
+código aislado para conectar un servidor en Node.js y Express que consume datos dinámicos mediante una API propia en 
+formato JSON. En el frontend, implementar funciones con async y await para hacer el fetch de la información me permitió
+dar vida al tablero de mensajes y al calendario editorial de forma fluida. Además, el flujo de trabajo en Git cambió
+por completo mi disciplina: cada clase iniciaba actualizando la rama main con un git pull impecable, para luego 
+pasar a mi rama personal y hacer el git merge correspondiente. Registrar cada avance con un commit claro y subirlo
+mediante push le dio un orden total al desarrollo. Este proceso no solo mejoró mis habilidades técnicas con 
+herramientas como el login pedagógico o el middleware simple, sino que me enseñó el valor de la difusión 
+responsable y el uso de un lenguaje responsable y no estigmatizante para aportar, desde la tecnología, a una 
+verdadera cultura de paz.

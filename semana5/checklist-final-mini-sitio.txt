@@ -1,8 +1,8 @@
 Checklist final del mini-sitio – Clase 25
 
-Nombre del estudiante:
-Fecha:
-Nombre de la rama:
+Nombre del estudiante: Enilson Contreras Prieto
+Fecha: 21/05/2026
+Nombre de la rama: enilson_contreras
 
 Marca SÍ o NO y explica brevemente.
 
@@ -10,58 +10,60 @@ Marca SÍ o NO y explica brevemente.
 
 ¿El mini-sitio abre correctamente en http://localhost:3000?
 
-Respuesta:
+Respuesta: si, El servidor local corre sin errores y la interfaz carga perfectamente
 
 2. API propia
 
 ¿El mini-sitio consume datos desde la API propia?
 
-Respuesta:
+Respuesta: si, El frontend ya está conectado al backend y recibe todos los datos directo de nuestra propia API.
 
 3. Tablero de mensajes
 
 ¿Los mensajes se cargan dinámicamente?
 
-Respuesta:
+Respuesta: si, los mensajes se cargan al momento y de forma dinámica en la pantalla apenas se hace la consulta.
 
 4. Calendario editorial
 
 ¿El calendario editorial se muestra correctamente?
 
-Respuesta:
+Respuesta: si, El calendario se renderiza bien visualmente y muestra las fechas y eventos programados sin problema.
 
 5. Resumen
 
 ¿La sección de resumen carga información desde el backend?
 
-Respuesta:
+Respuesta: si, 
 
 6. Login pedagógico
 
 ¿El login pedagógico responde correctamente?
 
-Respuesta:
+Respuesta: si, El formulario recibe las credenciales de prueba, las valida y genera la simulación del inicio de sesión.
 
 7. Middleware simple
 
 ¿La ruta protegida responde solo después de usar el token de demostración?
 
-Respuesta:
+Respuesta: si, Si intentas entrar a la ruta privada sin el token de prueba no dejara acceder, solo dejara pasar 
+cuando te autenticas.
 
 8. Accesibilidad mínima
 
 ¿La interfaz tiene títulos, secciones y textos legibles?
 
-Respuesta:
+Respuesta: si, tiene etiquetas limpias, textos claros y un buen contraste para que cualquiera 
+lo pueda leer bien.
 
 9. Minimización de datos visibles
 
 ¿La vista pública evita mostrar datos innecesarios?
 
-Respuesta:
+Respuesta: si, La parte pública está limpia y solo muestra lo justo y necesario
 
 10. Funcionamiento general
 
 ¿El proyecto funciona como una herramienta comunitaria básica?
 
-Respuesta:
+Respuesta: la verdad es que el proyecto corre súper fluido y cumple de sobra como una herramienta comunitaria básica.
